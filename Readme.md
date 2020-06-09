@@ -17,7 +17,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/1103425-barbershop-27) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/Kiriuha-lucky/barbershop-andrew) и нажмите кнопку «Fork» в правом верхнем углу. Мой репозиторий скопируется в твой аккаунт.
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037894-3cff89c2-7bae-11e7-8bae-a640a044bb03.jpg">
 
